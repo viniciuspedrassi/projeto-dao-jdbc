@@ -23,6 +23,8 @@
 .settings/
 .metadata/
 bin/
+.metadata/
+.plugins/
 
 # Operating System files (Windows)
 Thumbs.db
@@ -38,3 +40,5 @@ desktop.ini
 *.tar.gz
 *.rar
 
+ /metadata/
+/plugin/
