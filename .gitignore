@@ -23,7 +23,6 @@
 .settings/
 .metadata/
 bin/
-.metadata/
 .plugins/
 
 # Operating System files (Windows)
